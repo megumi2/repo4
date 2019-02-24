@@ -1,8 +1,8 @@
 <?php
 $name = "めぐみ";
 if ($name == "めぐみ") {
-　echo "私は" . $name . "です";
+ echo "私は" . $name . "です";
 } else {
-　echo $name . "ではありません";
+ echo $name . "ではありません";
 }
- ?>
+?>
